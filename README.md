@@ -19,4 +19,4 @@ Ce projet consiste à utiliser spaCy pour créer un modèle personnalisé de rec
 - **Intégration avec spaCy** : Utilise la puissance de spaCy pour un entraînement de modèle efficace et la reconnaissance d'entités.
 - **Visualisation de NER** : Implémentation de la visualisation d'entités pour présenter les performances du modèle sur des textes culinaires.
 
-![Image 3](https://github.com/MOUGINM//cooking_NER/blob/main/screenshot/Capture%20d’écran%202024-01-29%20214301.png)
+![Image 3](https://github.com/MOUGINM//cooking_NER/screenshot/Capture%20d’écran%202024-01-29%20214301.png)
