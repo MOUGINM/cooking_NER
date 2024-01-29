@@ -21,3 +21,4 @@ Ce projet consiste à utiliser spaCy pour créer un modèle personnalisé de rec
 
 ![NER Model Visualization](https://github.com/MOUGINM/cooking_NER/blob/main/screenshot/Capture%20d%E2%80%99%C3%A9cran%202024-01-29%20214301.png?raw=true)
 
+![Another NER Model Example](https://github.com/MOUGINM/cooking_NER/blob/main/screenshot/Capture%20d%E2%80%99%C3%A9cran%202024-01-29%20214501.png?raw=true)
